@@ -1,0 +1,84 @@
+{
+  "whitelabels": [
+    {
+      "name": "JUEGAENLINEA",
+      "description": "JuegaEnLínea Internacional"
+    },
+    {
+      "name": "SEXYAPUESTAS",
+      "description": "SexyApuestas"
+    },
+    {
+      "name": "STAGINGJUEGAENLINEA",
+      "description": "staging-juegaenlinea"
+    },
+    {
+      "name": "CASINOYPARLAY",
+      "description": "Casino y Parlay"
+    },
+    {
+      "name": "BETCONNECTIONS",
+      "description": "BetConnections"
+    },
+    {
+      "name": "SPORTENLINEA",
+      "description": "SportEnLínea"
+    },
+    {
+      "name": "JUEGAENLINEAVE",
+      "description": "JuegaEnLínea Venezuela"
+    },
+    {
+      "name": "GAMEBET24",
+      "description": "GameBet24"
+    },
+    {
+      "name": "GANAYCOBRA",
+      "description": "GanayCobra"
+    },
+    {
+      "name": "DOTDEMO",
+      "description": "DotDemo"
+    },
+    {
+      "name": "AZTECABETS",
+      "description": "AztecaBets"
+    },
+    {
+      "name": "PARLEYLATINO",
+      "description": "ParleyLatino"
+    },
+    {
+      "name": "GANATUPARLEY",
+      "description": "GanaTuParley"
+    },
+    {
+      "name": "MINADORADA",
+      "description": "Minadorada"
+    },
+    {
+      "name": "ANOTALA",
+      "description": "Anotala"
+    },
+    {
+      "name": "BET4SPORTS",
+      "description": "Bet4Sports"
+    },
+    {
+      "name": "SPORTWIN",
+      "description": "SportWin"
+    },
+    {
+      "name": "APUESTALA",
+      "description": "Apuestala"
+    },
+    {
+      "name": "DOTCASINO",
+      "description": "DotCasino"
+    },
+    {
+      "name": "DOTWORKERS",
+      "description": "DotWorkers"
+    }
+  ]
+}
